@@ -1,0 +1,7 @@
+# 自定义域名配置模板
+# 使用方法：
+# 1. 重命名为 "CNAME" (无扩展名)
+# 2. 将 yourdomain.com 替换为你的实际域名
+# 3. 提交到Git仓库
+
+yourdomain.com
